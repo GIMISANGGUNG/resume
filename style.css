@@ -31,7 +31,7 @@ h2 {
 .mainbox {
     border: 1px solid #ebebeb;
     width: 610px;
-    padding: 30px;
+    padding: 30px 30px 60px 30px;
     margin: 30px auto;
     box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
 }
@@ -77,13 +77,21 @@ h2 {
     padding-left: 16px;
 }
 
-.sns-img {
-    width: 12px;
-    height: 12px;
+.license-img {
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+    float: left
 }
 
-.sns-wrap {
-    text-align: right;
+.sns-img {
+    width: 30px;
+    height: 30px;
+    float: right
+}
+
+.image-wrap {
+    text-align: auto;
 }
 
 footer { 
