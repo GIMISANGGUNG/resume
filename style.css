@@ -37,7 +37,7 @@ h2 {
 }
 
 .name-text {
-    font-size: 17px;
+    font-size: 22px;
     color: #7c7c7c;
     font-weight: bold;
 }
@@ -80,13 +80,14 @@ h2 {
 .license-img {
     width: 30px;
     height: 30px;
-    padding-right: 10px;
+    padding: 5px;
     float: left
 }
 
 .sns-img {
     width: 30px;
     height: 30px;
+    padding: 5px;
     float: right
 }
 
